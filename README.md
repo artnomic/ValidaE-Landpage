@@ -105,7 +105,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Tem perguntas, sugestões ou precisa de ajuda? Fale com a gente!
 
-- **Email:** suporte@ValidaÊ.com
-- **GitHub Issues:** [Issues](https://github.com/seu-usuario/ValidaÊ/issues)
+- **Email:** arthurpe44@gmail.com
+- **GitHub Issues:** [Issues](https://github.com/artnomic)
 
 Obrigado por conferir o ValidaÊ! 🚀
