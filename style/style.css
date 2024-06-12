@@ -80,6 +80,10 @@ section {
     color: #FFF;
 }
 
+.icon-color {
+    color: #E84C5D;
+}
+
 .btn-link {
     display: inline-block;
     width: 50%;
